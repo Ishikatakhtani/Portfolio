@@ -54,7 +54,7 @@ Animations like **slide-down header** and **fade-in sections** were added to imp
 
 ##  Contact
 
-- **Email**: [developermuskan26@gmail.com](mailto:ishikatakhtani113@gmail.com)
+- **Email**: [ishikatakhtani113@gmail.com](mailto:ishikatakhtani113@gmail.com)
 - **Phone**: [+91 6268951339](tel:+916268951339)
 - **GitHub**: [github.com/Ishikatakhtani](https://github.com/Ishikatakhtani)
 - **LinkedIn**: [Ishika Takhtani](https://www.linkedin.com/in/ishika-takhtani-a25452332)
